@@ -14,10 +14,10 @@
 
 | 平台 | 版本 | 安装包 | 大小 |
 | --- | --- | --- | --- |
-| Windows 10 / 11（x64） | 4.2.9 | [SplitReader-4.2.9-windows-x64-setup.exe](https://github.com/mlican/split-reader/raw/main/SplitReader-4.2.9-windows-x64-setup.exe) | 29.7 MB |
-| Android 7.0+（arm64-v8a） | 4.2.9 (429) | [SplitReader-4.2.9-arm64-v8a.apk](https://github.com/mlican/split-reader/raw/main/SplitReader-4.2.9-arm64-v8a.apk) | 91.7 MB |
+| Windows 10 / 11（x64） | 4.2.9 | [SplitReader-windows-x64-setup.exe](https://github.com/mlican/split-reader/releases/latest/download/SplitReader-windows-x64-setup.exe) | 29.7 MB |
+| Android 7.0+（arm64-v8a） | 4.2.9 (429) | [SplitReader-android-arm64.apk](https://github.com/mlican/split-reader/releases/latest/download/SplitReader-android-arm64.apk) | 91.7 MB |
 
-> 点击上表链接即可直接从 GitHub 下载安装包；历史版本请看 [Releases](https://github.com/mlican/split-reader/releases)。
+> 上表是「最新版」直链，点击即从 GitHub Releases 直接下载安装包；历史版本与更新日志见 [Releases](https://github.com/mlican/split-reader/releases)。
 
 ### 安装提示
 

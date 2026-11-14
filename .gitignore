@@ -1,0 +1,6 @@
+# 安装包统一通过 GitHub Releases 分发，不提交到仓库
+*.exe
+*.apk
+*.aab
+*.msix
+*.dmg
