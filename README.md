@@ -14,8 +14,8 @@
 
 | 平台 | 版本 | 安装包 | 大小 |
 | --- | --- | --- | --- |
-| Windows 10 / 11（x64） | 4.2.9 | [SplitReader-windows-x64-setup.exe](https://github.com/mlican/split-reader/releases/latest/download/SplitReader-windows-x64-setup.exe) | 29.7 MB |
-| Android 7.0+（arm64-v8a） | 4.2.9 (429) | [SplitReader-android-arm64.apk](https://github.com/mlican/split-reader/releases/latest/download/SplitReader-android-arm64.apk) | 91.7 MB |
+| Windows 10 / 11（x64） | 4.3.0 | [SplitReader-windows-x64-setup.exe](https://github.com/mlican/split-reader/releases/latest/download/SplitReader-windows-x64-setup.exe) | 36.1 MB |
+| Android 7.0+（arm64-v8a） | 4.3.0 (430) | [SplitReader-android-arm64.apk](https://github.com/mlican/split-reader/releases/latest/download/SplitReader-android-arm64.apk) | 96.4 MB |
 
 > 上表是「最新版」直链，点击即从 GitHub Releases 直接下载安装包；历史版本与更新日志见 [Releases](https://github.com/mlican/split-reader/releases)。
 
@@ -72,6 +72,11 @@ txt、PDF、EPUB、Markdown、HTML、网页链接、RSS 订阅、视频字幕，
 
 ## 版本
 
-当前发布版本：**4.2.9 (build 429)** · 平台：Windows x64、Android arm64-v8a
+当前发布版本：**4.3.0 (build 430)** · 平台：Windows x64、Android arm64-v8a
+
+更新日志：
+
+- **4.3.0**：新增「会员特权」页面，优化「关于」页面与文章卡片样式
+- **4.2.9**：首个公开发布版本，支持逐句对照阅读、点词查词、朗读跟读、多格式导入与 AI 翻译
 
 问题反馈与功能建议请前往 [Issues](https://github.com/mlican/split-reader/issues)。
